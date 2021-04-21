@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a12a91f.chunk.css",
-    "main.js": "/static/js/main.4b85e14d.chunk.js",
-    "main.js.map": "/static/js/main.4b85e14d.chunk.js.map",
+    "main.css": "/static/css/main.cb5e3843.chunk.css",
+    "main.js": "/static/js/main.7b5d2525.chunk.js",
+    "main.js.map": "/static/js/main.7b5d2525.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ae690f1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.ae690f1c.js.map",
     "static/js/2.f7f4489c.chunk.js": "/static/js/2.f7f4489c.chunk.js",
@@ -10,9 +10,10 @@
     "static/js/3.08a1ae5d.chunk.js": "/static/js/3.08a1ae5d.chunk.js",
     "static/js/3.08a1ae5d.chunk.js.map": "/static/js/3.08a1ae5d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7a12a91f.chunk.css.map": "/static/css/main.7a12a91f.chunk.css.map",
+    "static/css/main.cb5e3843.chunk.css.map": "/static/css/main.cb5e3843.chunk.css.map",
     "static/js/2.f7f4489c.chunk.js.LICENSE.txt": "/static/js/2.f7f4489c.chunk.js.LICENSE.txt",
     "static/media/AndroidWebinar.1140eeea.png": "/static/media/AndroidWebinar.1140eeea.png",
+    "static/media/Dresume.fdd4376f.pdf": "/static/media/Dresume.fdd4376f.pdf",
     "static/media/PythonWebinar.fbeeb190.png": "/static/media/PythonWebinar.fbeeb190.png",
     "static/media/Resume.e5fa590d.pdf": "/static/media/Resume.e5fa590d.pdf",
     "static/media/Vivek.09e27131.jpg": "/static/media/Vivek.09e27131.jpg",
@@ -39,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae690f1c.js",
     "static/js/2.f7f4489c.chunk.js",
-    "static/css/main.7a12a91f.chunk.css",
-    "static/js/main.4b85e14d.chunk.js"
+    "static/css/main.cb5e3843.chunk.css",
+    "static/js/main.7b5d2525.chunk.js"
   ]
 }
